@@ -1,0 +1,35 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-awsomeproject-dev-81e0a-authRole",
+      "UnauthRoleArn": "arn:aws:iam::463470965124:role/amplify-awsomeproject-dev-81e0a-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::463470965124:role/amplify-awsomeproject-dev-81e0a-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-awsomeproject-dev-81e0a-deployment",
+      "UnauthRoleName": "amplify-awsomeproject-dev-81e0a-unauthRole",
+      "StackName": "amplify-awsomeproject-dev-81e0a",
+      "StackId": "arn:aws:cloudformation:us-east-1:463470965124:stack/amplify-awsomeproject-dev-81e0a/787e5d10-9470-11ef-b920-0e2365b6cbe7",
+      "AmplifyAppId": "d1vrkmir4eisfr"
+    },
+    "categories": {
+      "auth": {
+        "awsomeproject0da44396": {}
+      },
+      "analytics": {
+        "awsomeproject": {},
+        "Pinpoint": {
+          "Name": "awsomeproject-dev",
+          "Id": "346b42be663d45c48534ba7910b3e338",
+          "Region": "us-east-1"
+        }
+      },
+      "notifications": {
+        "Pinpoint": {
+          "Name": "awsomeproject-dev",
+          "Id": "346b42be663d45c48534ba7910b3e338",
+          "Region": "us-east-1"
+        }
+      }
+    }
+  }
+}
